@@ -46,14 +46,6 @@ const Contact = () => {
               Send a message
             </a>
           </article>
-          <article className="contact__option">
-            <RiMessengerLine className="contact__option-icon" />
-            <h4>Facebook</h4>
-            <h5>Emirhan_Uluksar</h5>
-            <a href="https://facebook.com/" target="_blank">
-              Send a message
-            </a>
-          </article>
         </div>
         {/* END OF CONTACT OPTIONS */}
         <form ref={form} onSubmit={sendEmail}>

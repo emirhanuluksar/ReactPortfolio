@@ -26,7 +26,7 @@ const About = () => {
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>2</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
@@ -35,10 +35,19 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit
-            tenetur repellat, asperiores maxime tempore explicabo autem aut
-            excepturi voluptatem at quibusdam ut velit, vero doloremque eius
-            assumenda optio. Alias, aliquid!
+            Hello! I'm Emirhan Uluksar, a passionate software developer with
+            expertise in front-end and back-end development. I have a strong
+            background in creating cutting-edge applications and solutions. My
+            skills include JavaScript, .NET Core, C++, and popular frameworks
+            like React, Node.js, and Angular. I have a track record of
+            delivering robust and efficient solutions tailored to the unique
+            needs of each project. Collaboration and effective communication are
+            essential to me, and I thrive in agile environments. Please explore
+            my portfolio to see examples of my problem-solving skills and
+            high-quality code. Thank you for considering my expertise, and I
+            look forward to the opportunity to contribute to your organization.
+            Feel free to contact me through the information provided on my
+            website. Best regards, Emirhan Uluksar.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

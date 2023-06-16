@@ -1,6 +1,5 @@
 import "./header.css";
 import CTA from "./CTA";
-import ME from "../../assets/pngegg.png";
 import HeaderSocials from "./HeaderSocials";
 const Header = () => {
   return (
@@ -13,7 +12,7 @@ const Header = () => {
         <HeaderSocials />
 
         <div className="me">
-          <img src={ME} alt="" />
+          <img src="" alt="" />
         </div>
 
         <a href="#contact" className="scroll__down">
